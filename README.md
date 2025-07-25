@@ -48,6 +48,6 @@
 
 ### 🌐 Onde me encontrar
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/kathuann)
-- 📷 [Instagram da comunidade Labs DevOps](https://www.instagram.com/labsdevops)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/kahdeniz)
+- 📷 [Instagram da comunidade Labs DevOps](https://www.instagram.com/labs.devops)
 - 📩 kathuanndeniz@gmail.com
