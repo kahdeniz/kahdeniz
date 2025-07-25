@@ -29,9 +29,10 @@
 ---
 ## 🌟 Projetos em Destaque
 
-[![Labs DevOps Site](https://img.shields.io/badge/LabsDevOps-Community_Website-blueviolet?style=for-the-badge)](https://github.com/kahdeniz/labs-devops-site)
-[![Terraform Monitoração](https://img.shields.io/badge/IaC-Datadog_Monitoring-4B8BBE?style=for-the-badge)](https://github.com/kahdeniz/terraform-datadog-monitors)
-[![Forense Lab](https://img.shields.io/badge/Lab-Análise_Forense-orange?style=for-the-badge)](https://github.com/kahdeniz/lab-forense)
+[![Forense Lab](https://img.shields.io/badge/Lab-Análise_Forense-ffd21f?style=for-the-badge)](https://github.com/kahdeniz/analise_de_dados_forenses_em_python)
+[![Labs DevOps Site](https://img.shields.io/badge/LabsDevOps-Community_Website-1f4260?style=for-the-badge)](https://github.com/kahdeniz/labs-devops-site)
+[![Terraform Monitoração](https://img.shields.io/badge/IaC-Datadog_Monitoring-632CA6?style=for-the-badge)](https://github.com/kahdeniz/terraform-datadog-monitors)
+
 
 > Explore mais em [github.com/kahdeniz](https://github.com/kahdeniz) 🕵️‍♀️🧪☁️
 ---
