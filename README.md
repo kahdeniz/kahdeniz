@@ -26,7 +26,14 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
+---
+## 🌟 Projetos em Destaque
 
+[![Labs DevOps Site](https://img.shields.io/badge/LabsDevOps-Community_Website-blueviolet?style=for-the-badge)](https://github.com/kahdeniz/labs-devops-site)
+[![Terraform Monitoração](https://img.shields.io/badge/IaC-Datadog_Monitoring-4B8BBE?style=for-the-badge)](https://github.com/kahdeniz/terraform-datadog-monitors)
+[![Forense Lab](https://img.shields.io/badge/Lab-Análise_Forense-orange?style=for-the-badge)](https://github.com/kahdeniz/lab-forense)
+
+> Explore mais em [github.com/kahdeniz](https://github.com/kahdeniz) 🕵️‍♀️🧪☁️
 ---
 
 ### 📈 GitHub Stats
